@@ -27,7 +27,7 @@ Best Case: [2,6,16,18,22,27]
        
     18 sayısı hangi case kapsamına girer?
   
-18 sayısı bu dizinin ortanca değeridir. Yani average case diyebiliriz.
+18 sayısı bu dizinin ortanca değeridir.  average case dir.
      
     [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 
  1.adım [2,3,5,8,7,9,4,15,6]
